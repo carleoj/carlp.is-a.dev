@@ -3,7 +3,8 @@
         "username": "carleoj",
         "email": "jimroep@gmail.com"
     },
-    "records": {
-        "TXT": "vc-domain-verify=carlp.is-a.dev,95bd1a9e83ab2204b961"
-    }
+    "record": {
+        "CNAME": "cname.vercel-dns.com"
+    },
+    "proxied": false
 }
