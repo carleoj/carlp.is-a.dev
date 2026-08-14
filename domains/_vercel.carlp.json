@@ -3,7 +3,7 @@
         "username": "carleoj",
         "email": "jimroep@gmail.com"
     },
-    "record": {
+    "records": {
         "CNAME": "cname.vercel-dns.com"
     },
     "proxied": false
